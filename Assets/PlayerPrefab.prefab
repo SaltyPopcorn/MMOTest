@@ -26,10 +26,11 @@ Transform:
   m_GameObject: {fileID: 293021183291916082}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.03, y: 0.269, z: 0.1}
+  m_LocalPosition: {x: 0.184, y: 0.308, z: 0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 7805861346746082997}
   m_Father: {fileID: 8984878306945248346}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3677198779787304818
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1182821291677670348, guid: e295e58144ce30b4d849e6e2101a4220, type: 3}
+  m_Sprite: {fileID: -1182821291677670348, guid: d4db3e262b8e7ca4c8dad0e516ad2f55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -116,7 +117,7 @@ Transform:
   m_GameObject: {fileID: 1419089551527747890}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.085, y: -0.21, z: 0.1}
+  m_LocalPosition: {x: 0.152, y: -0.242, z: 0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -169,7 +170,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6287787046888575383, guid: e295e58144ce30b4d849e6e2101a4220, type: 3}
+  m_Sprite: {fileID: -6287787046888575383, guid: d4db3e262b8e7ca4c8dad0e516ad2f55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -206,11 +207,10 @@ Transform:
   m_GameObject: {fileID: 1439989587970594595}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.4293317, w: -0.9031469}
-  m_LocalPosition: {x: -0.092, y: 0.273, z: -0.12}
+  m_LocalPosition: {x: -0.222, y: 0.352, z: -0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 7805861346746082997}
+  m_Children: []
   m_Father: {fileID: 8984878306945248346}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -50.85}
 --- !u!212 &7881295804797483200
@@ -260,7 +260,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1182821291677670348, guid: e295e58144ce30b4d849e6e2101a4220, type: 3}
+  m_Sprite: {fileID: -1182821291677670348, guid: d4db3e262b8e7ca4c8dad0e516ad2f55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -297,7 +297,7 @@ Transform:
   m_GameObject: {fileID: 1901742829958512695}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.022, y: 0.343, z: -0.05}
+  m_LocalPosition: {x: 0.013, y: 0.541, z: -0.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -350,7 +350,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7364682651488144517, guid: e295e58144ce30b4d849e6e2101a4220, type: 3}
+  m_Sprite: {fileID: 7364682651488144517, guid: d4db3e262b8e7ca4c8dad0e516ad2f55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -422,7 +422,7 @@ Transform:
   m_GameObject: {fileID: 4612958460231783085}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.0934114, w: -0.9956276}
-  m_LocalPosition: {x: -0.097, y: -0.174, z: -0.1}
+  m_LocalPosition: {x: -0.133, y: -0.198, z: -0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -475,7 +475,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6287787046888575383, guid: e295e58144ce30b4d849e6e2101a4220, type: 3}
+  m_Sprite: {fileID: -6287787046888575383, guid: d4db3e262b8e7ca4c8dad0e516ad2f55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -941,7 +941,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2311659948842064771, guid: e295e58144ce30b4d849e6e2101a4220, type: 3}
+  m_Sprite: {fileID: -2311659948842064771, guid: d4db3e262b8e7ca4c8dad0e516ad2f55, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -958,7 +958,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 6223901750586116828}
+    m_TransformParent: {fileID: 8836176868571648698}
     m_Modifications:
     - target: {fileID: -2253911629886400664, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_Name
@@ -970,23 +970,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -2253911629886400664, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.309
+      value: 0.06305735
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.499
+      value: -0.54640853
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.050000004
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7831228
+      value: -0.9742621
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_LocalRotation.x
@@ -998,7 +998,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.6218672
+      value: -0.22541794
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 8a92b2bc08ececd4ab83b59900821872, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
